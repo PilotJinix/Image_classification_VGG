@@ -1,0 +1,4 @@
+streamlit==1.7.0
+scikit-learn==0.18
+matplotlib==1.4.3
+Image==1.5.33

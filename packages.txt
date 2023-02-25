@@ -1,3 +1,0 @@
-freeglut3-dev
-libgtk2.0-dev
-libGL.so.1-dev

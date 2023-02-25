@@ -4,3 +4,4 @@ matplotlib>=3.7.0
 image>=1.5.33
 tensorflow>=2.11.0
 streamlit-webrtc>=0.44.6
+lxml>=2.2.0
